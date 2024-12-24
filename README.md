@@ -3,7 +3,7 @@
 
 This project predicts credit risk categories using machine learning models.  
 Check out the **Jupyter Notebook** for detailed code and analysis:
-[View the Notebook](https://github.com/username/repo-name/blob/main/Risk-based Credit Scoring using Financial Behaviour and Transaction Patterns (1).ipynb)
+- [Risk-Based Credit Scoring Notebook](https://github.com/username/repo-name/blob/main/Risk-based%20Credit%20Scoring%20using%20Financial%20Behaviour%20and%20Transaction%20Patterns%20(1).ipynb)
 
 
 **Objective:**
