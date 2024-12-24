@@ -1,8 +1,7 @@
 **Risk-Based Credit Scoring Using Financial Behavior and Transaction Patterns**
 
 This project predicts credit risk categories (Low, Medium, High) based on financial behavior and transaction patterns using machine learning models. 
-
-This project predicts credit risk categories using machine learning models.  
+  
 Check out the **Jupyter Notebook** for detailed code and analysis:
 - [Risk-Based Credit Scoring Notebook](https://github.com/username/repo-name/blob/main/Risk-based%20Credit%20Scoring%20using%20Financial%20Behaviour%20and%20Transaction%20Patterns%20(1).ipynb)
 
