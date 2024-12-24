@@ -1,5 +1,5 @@
 **Risk-Based Credit Scoring Using Financial Behavior and Transaction Patterns**
-Risk-based Credit Scoring using Financial Behaviour and Transaction Patterns.ipynb
+[View the Notebook]
 **Objective:**
 Developed a machine learning model to predict credit risk categories (Low, Medium, High) based on financial behavior and transaction patterns.
 **Data Preprocessing:**
